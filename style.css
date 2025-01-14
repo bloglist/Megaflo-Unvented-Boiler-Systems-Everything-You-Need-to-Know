@@ -220,6 +220,7 @@ nav.nav-menu {
     margin-left: 50px;
     margin-right: 40px;
     font-size: medium;
+    font-weight: 500;
     color: #000000
   }
   /* Three image containers (use 25% for four, and 50% for two, etc) */
